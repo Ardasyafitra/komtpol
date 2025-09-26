@@ -1,0 +1,17 @@
+body {
+    background-color: pink;
+}
+
+.navbar-container {
+background-color: blanchedalmond;
+}
+
+.ul-navbar {
+background-color: aqua ;
+}
+
+.li-navbar {
+  border: 1px solid red;
+  list-style-type: none; 
+   
+}
